@@ -73,3 +73,9 @@ C:\Users\User\Documents\Mine\pages\AlpineSkiHouse\bin\Debug\net6.0\zh-CN\Humaniz
 C:\Users\User\Documents\Mine\pages\AlpineSkiHouse\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
 C:\Users\User\Documents\Mine\pages\AlpineSkiHouse\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
 C:\Users\User\Documents\Mine\pages\AlpineSkiHouse\obj\Debug\net6.0\AlpineSkiHouse.csproj.CopyComplete
+C:\Users\User\Documents\Mine\pages\AlpineSkiHouse\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\User\Documents\Mine\pages\AlpineSkiHouse\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\User\Documents\Mine\pages\AlpineSkiHouse\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\User\Documents\Mine\pages\AlpineSkiHouse\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\User\Documents\Mine\pages\AlpineSkiHouse\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\User\Documents\Mine\pages\AlpineSkiHouse\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
